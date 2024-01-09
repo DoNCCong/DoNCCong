@@ -3,12 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mindset&Coder) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mindsetandcoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mindsetcoder) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mindsetcoder) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mindset&Coder) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mindsetandcoder) 
 
 Orther:
 
-(My StackOverFlow)
-https://stackoverflow.com/users/22490985/%c4%90%e1%bb%97-c%c3%b4ng?tab=profile
+![StackOverFlow](https://stackoverflow.com/users/22490985/%c4%90%e1%bb%97-c%c3%b4ng?tab=profile)
 
 (My Cloud Skills Boots)
 https://www.cloudskillsboost.google/public_profiles/92397003-2d7f-445f-97fd-6735089e435e
