@@ -5,12 +5,13 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mindsetcoder) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/852807645823305) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mindsetandcoder) 
 
-Important
-[Stack Buffer Overflow](https://github.com/DoNCCong/Basic_Stack_Exploitation)
+Important:
+[Buffer Overflow_on_Stack](https://github.com/DoNCCong/Basic_Stack_Exploitation)
 [Cyber-Apocalypse-CTF-2024](https://github.com/DoNCCong/Cyber-Apocalypse-CTF-2024)
 [Bulding_A_Simple_Server_By_Assembly_Language](https://github.com/DoNCCong/Bulding_A_Simple_Server_By_Assembly_Language)
+[XOR_Exploit](https://www.youtube.com/watch?v=e2mxpO3zwVQ)
 
-Pentest
+Pentest:
 [PentesterLab](https://pentesterlab.com/profile/DoNgocChiCong)
 
 Orther:
@@ -21,12 +22,16 @@ Orther:
 [StackOverFlow](https://stackoverflow.com/users/22490985/%c4%90%e1%bb%97-c%c3%b4ng?tab=profile)
 [My Online Certification](https://www.youtube.com/watch?v=ZOSzzn-hJNY)
 
-Badges
+Badges:
 [Badges Coursera](https://www.credly.com/users/do-ngoc-chi-cong/badges)
 
 Processing:
 [BurpSuite](https://github.com/DoNCCong/BurpSuite)
 [Cryptography](https://cryptohack.org/user/DoCong/)
+
+Project:
+[Malware Keylogger](https://www.youtube.com/watch?v=sVb4AsmOnVQ&t=98s)
+[Image_Processing](https://www.youtube.com/watch?v=P2JrS1aMs2w&t=730s)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
