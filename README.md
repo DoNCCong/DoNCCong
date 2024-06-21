@@ -7,8 +7,11 @@
 
 Important:
 [Buffer Overflow_on_Stack](https://github.com/DoNCCong/Basic_Stack_Exploitation)
+-
 [Cyber-Apocalypse-CTF-2024](https://www.youtube.com/watch?v=eYK84MnUlzo&t=1520s)
+-
 [Bulding_A_Simple_Server_By_Assembly_Language](https://github.com/DoNCCong/Bulding_A_Simple_Server_By_Assembly_Language)
+-
 [XOR_Exploit](https://www.youtube.com/watch?v=e2mxpO3zwVQ)
 
 Pentest:
@@ -16,10 +19,15 @@ Pentest:
 
 Orther:
 [Coursera](https://www.coursera.org/user/d7a6b81cae5cd18e9291f33148a868aa)
+-
 [Hack The Box CTF](https://ctf.hackthebox.com/user/profile/124780)
+-
 [g-Dev](https://g.dev/DoNgocChiCong)
+-
 [Cloud Skills Boots](https://www.cloudskillsboost.google/public_profiles/92397003-2d7f-445f-97fd-6735089e435e)
+-
 [StackOverFlow](https://stackoverflow.com/users/22490985/%c4%90%e1%bb%97-c%c3%b4ng?tab=profile)
+-
 [My Online Certification](https://www.youtube.com/watch?v=ZOSzzn-hJNY)
 
 Badges:
@@ -27,10 +35,14 @@ Badges:
 
 Processing:
 [BurpSuite](https://github.com/DoNCCong/BurpSuite)
+-
 [Cryptography](https://cryptohack.org/user/DoCong/)
+-
+[Pwn College](https://pwn.college/hacker/DoCong)
 
 Project:
 [Malware Keylogger](https://www.youtube.com/watch?v=sVb4AsmOnVQ&t=98s)
+-
 [Image_Processing](https://www.youtube.com/watch?v=P2JrS1aMs2w&t=730s)
 
 # 💻 Tech Stack:
