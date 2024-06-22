@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mindsetcoder) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/852807645823305) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mindsetandcoder) 
 
-# Important:
+# Important in Learning Hacking:
 [Buffer Overflow_on_Stack](https://github.com/DoNCCong/Basic_Stack_Exploitation)
 |
 [Cyber-Apocalypse-CTF-2024](https://www.youtube.com/watch?v=eYK84MnUlzo&t=1520s)
