@@ -42,7 +42,7 @@
 # Badges:
 [Badges Coursera](https://www.credly.com/users/do-ngoc-chi-cong/badges)
 
-# Processing:
+# Processing in Hacking:
 [BurpSuite](https://github.com/DoNCCong/BurpSuite)
 |
 [Cryptography](https://cryptohack.org/user/DoCong/)
