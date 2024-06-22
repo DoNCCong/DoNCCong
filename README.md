@@ -5,7 +5,10 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mindsetcoder) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/852807645823305) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mindsetandcoder) 
 
-# Important in Learning Hacking:
+# Experiment
+[Making The CTF Challeng for University](https://fit.hcmute.edu.vn/ArticleId/6e3e4a1d-3f97-4227-ab78-e3def390c40b/cuoc-thi-hoc-thuat-sinh-vien-voi-an-toan-thong-tin-ctf-hcmute-nam-2023)
+
+## Important in Learning Hacking:
 [Buffer Overflow_on_Stack](https://github.com/DoNCCong/Basic_Stack_Exploitation)
 |
 [Cyber-Apocalypse-CTF-2024](https://www.youtube.com/watch?v=eYK84MnUlzo&t=1520s)
@@ -14,7 +17,7 @@
 |
 [XOR_Exploit](https://www.youtube.com/watch?v=e2mxpO3zwVQ)
 
-# Project:
+## Project:
 [Malware Keylogger](https://www.youtube.com/watch?v=sVb4AsmOnVQ&t=98s)
 |
 [Image_Processing](https://www.youtube.com/watch?v=P2JrS1aMs2w&t=730s)
@@ -27,20 +30,20 @@
 |
 [Association_Rule_System](https://github.com/DoNCCong/Association_Rule_System)
 
-# Pentest:
+## Pentest:
 [PentesterLab](https://pentesterlab.com/profile/DoNgocChiCong)
 
-# Badges:
+## Badges:
 [Badges Coursera](https://www.credly.com/users/do-ngoc-chi-cong/badges)
 
-# Processing in Hacking:
+## Processing in Hacking:
 [BurpSuite](https://github.com/DoNCCong/BurpSuite)
 |
 [Cryptography](https://cryptohack.org/user/DoCong/)
 |
 [Pwn College](https://pwn.college/hacker/DoCong)
 
-# Orther:
+## Orther:
 [Coursera](https://www.coursera.org/user/d7a6b81cae5cd18e9291f33148a868aa)
 |
 [Hack The Box CTF](https://ctf.hackthebox.com/user/profile/124780)
@@ -53,7 +56,7 @@
 |
 [My Online Certification](https://www.youtube.com/watch?v=ZOSzzn-hJNY)
 
-# Creater of the tutorial
+## Creater of the tutorial
 [Kali Linux Basic](https://www.youtube.com/watch?v=auK75hkZrQQ&list=PLQ2CCbB0dUEsw_9lvIwsXMDW7X_Akl7nK)
 |
 [CTF](https://www.youtube.com/watch?v=eYK84MnUlzo&list=PLQ2CCbB0dUEutaPDSX5KeLcKWF66L4k8e&index=3)
