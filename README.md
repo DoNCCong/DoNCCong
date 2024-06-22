@@ -22,6 +22,10 @@
 [Quan Ly Cong Dan Thanh Pho](https://github.com/DoNCCong/Quan-Ly-Cong-Dan)
 |
 [Breast Cancer](https://donccong.github.io/Breast-Cancer/)
+|
+[Constraint Satisfaction Problems](https://github.com/DoNCCong/Constraint-Satisfaction-Problems--Basic-)
+|
+[Association_Rule_System](https://github.com/DoNCCong/Association_Rule_System)
 
 # Pentest:
 [PentesterLab](https://pentesterlab.com/profile/DoNgocChiCong)
