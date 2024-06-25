@@ -29,6 +29,8 @@
 [Constraint Satisfaction Problems](https://github.com/DoNCCong/Constraint-Satisfaction-Problems--Basic-)
 |
 [Association_Rule_System](https://github.com/DoNCCong/Association_Rule_System)
+|
+[Text Generation](https://github.com/DoNCCong/Generation_Text/blob/main/GenerationText%20using%20LSTM%20or%20LSTM%2BCNN.ipynb)
 
 ## Pentest:
 [PentesterLab](https://pentesterlab.com/profile/DoNgocChiCong)
