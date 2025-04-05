@@ -66,7 +66,7 @@
 [Cryptography](https://www.youtube.com/watch?v=e2mxpO3zwVQ&list=PLQ2CCbB0dUEtrdrob60xJckFsFXZVYAkE)
 
 # 📊 Donate:
-If you like my project or my video, please donate me some a coffee if you like :> (I'm pooring). Thank you very much !!.
+If you like my project or my video, please donate me some a coffee if you like :>. Thank you very much !!.
 ![](./Images/DoNCCong.jpeg)
 
 # 💻 Tech Stack:
