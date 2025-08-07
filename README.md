@@ -67,6 +67,7 @@
 
 # 📊 Donate:
 If you like my project or my video, please donate me some a coffee if you like :>. Thank you very much !!.
+If you encounter any issues, please feel free to contact me via email at dongocchiconga22@gmail.com. 
 ![](./Images/DoNCCong.jpeg)
 
 # 💻 Tech Stack:
